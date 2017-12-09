@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <!-- Provided this file is visible, the text below will be spoken by a text-to-voice bot on the Twilio server -->
+  <Say voice="alice">Hi, thanks for wasting my time.  I'd like to repay you by wasting some of yours.</Say>
+
+  <!-- Rick Roll -->
+  <Play>https://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
+
